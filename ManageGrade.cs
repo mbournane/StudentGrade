@@ -9,7 +9,7 @@ namespace StudentsGrades
     public class ManageGrade :Manager
     {
         public List<Grade> lstGrades;
-        private string gradePath = @"C:\WildSchoul_Formation\Projcts\StudentsGrades\JSON\Grade.json";
+        private string gradePath = @"C:\WildSchoul_Formation\Projcts\StudentGrade\JSON\Grade.json";
         public ManageGrade() {
             lstGrades = Import(gradePath);
         }

@@ -7,7 +7,7 @@ namespace StudentsGrades
     public class ManageCourse
     {
         public List<Course> lstCourse;
-        private string coursePath = @"C:\WildSchoul_Formation\Projcts\StudentsGrades\JSON\course.json";
+        private string coursePath = @"C:\WildSchoul_Formation\Projcts\StudentGrade\JSON\course.json";
         public ManageCourse() 
         {
             lstCourse = Import(coursePath);

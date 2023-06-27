@@ -5,7 +5,7 @@ namespace StudentsGrades
     public class ManageStudent
     {
         public List<Student> lstStudent;
-        private string studentPath = @"C:\WildSchoul_Formation\Projcts\StudentsGrades\JSON\student.json";
+        private string studentPath = @"C:\WildSchoul_Formation\Projcts\StudentGrade\JSON\student.json";
         
         public ManageStudent()
         {
