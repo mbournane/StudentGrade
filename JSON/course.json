@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "CourseName": "Math"
+  },
+  {
+    "Id": 2,
+    "CourseName": "Programmation"
+  },
+  {
+    "Id": 3,
+    "CourseName": "SVT"
+  },
+  {
+    "Id": 4,
+    "CourseName": "Chimie"
+  }
+]

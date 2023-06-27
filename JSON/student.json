@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Mohamed",
+    "LastName": "Bournane",
+    "Age": 45,
+    "GradeList": null,
+    "Average": 0.0
+  },
+  {
+    "Id": 2,
+    "FirstName": "Ines",
+    "LastName": "Bournane",
+    "Age": 20,
+    "GradeList": null,
+    "Average": 0.0
+  },
+  {
+    "Id": 5,
+    "FirstName": "Yasser",
+    "LastName": "Bournane",
+    "Age": 1,
+    "GradeList": null,
+    "Average": 0.0
+  },
+  {
+    "Id": 6,
+    "FirstName": "Abderrahmane",
+    "LastName": "Bournane",
+    "Age": 9,
+    "GradeList": null,
+    "Average": 0.0
+  },
+  {
+    "Id": 7,
+    "FirstName": "Mohamed",
+    "LastName": "Bournane",
+    "Age": 45,
+    "GradeList": null,
+    "Average": 0.0
+  }
+]

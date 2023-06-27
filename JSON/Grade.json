@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "IdStudent": 0,
+    "IdCourse": 0,
+    "Grades": 0.0,
+    "AppreciationsStudent": null
+  },
+  {
+    "Id": 2,
+    "IdStudent": 0,
+    "IdCourse": 0,
+    "Grades": 0.0,
+    "AppreciationsStudent": null
+  },
+  {
+    "Id": 3,
+    "IdStudent": 0,
+    "IdCourse": 0,
+    "Grades": 0.0,
+    "AppreciationsStudent": null
+  },
+  {
+    "Id": 4,
+    "IdStudent": 6,
+    "IdCourse": 5,
+    "Grades": 12.0,
+    "AppreciationsStudent": "bien"
+  }
+]
